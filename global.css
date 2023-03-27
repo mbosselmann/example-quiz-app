@@ -39,6 +39,9 @@ body {
   font-family: var(--ff-primary);
   color: var(--black);
 }
+main {
+  padding: 10rem 2rem 6rem 2rem;
+}
 
 button {
   font-size: var(--fs-400);
