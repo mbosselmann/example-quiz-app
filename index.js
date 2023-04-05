@@ -12,5 +12,3 @@ answerButton.addEventListener("click", () => {
 bookmarkButton.addEventListener("click", () => {
   bookmarkButton.classList.toggle("bookmark--active");
 });
-
-console.log("julia");
